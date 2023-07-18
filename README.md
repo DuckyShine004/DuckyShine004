@@ -1,5 +1,6 @@
 ### About Me
 ---
+Hello! I am a second year software engineering student, currently studying at the University of Auckland.
 
 ### LeetCode Statistics
 [![LeetCode Stats](https://leetcard.jacoblin.cool/DuckyShine04?theme=dark&font=Alef&ext=activity)](https://leetcode.com/DuckyShine04/)
