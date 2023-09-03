@@ -17,6 +17,9 @@ Hello! I am a second year software engineering student, currently studying at th
 <a href="https://github.com/DuckyShine004" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DDuckyShine004&longCache=true"/></a>
 <img src="https://komarev.com/ghpvc/?username=DuckyShine004&color=brightgreen" alt="watching_count" />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DuckyShine004.DuckyShine004)
+
+### GitBooks
+- [OpenGL C++ Notes](https://app.gitbook.com/o/XEIMsXq347BvdJO73OPI/s/5BTO7oc6fRlD2LwMazdQ/)
   
 ### Social Media Links
 <a href="https://leetcode.com/DuckyShine04/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
