@@ -28,7 +28,7 @@ Hello! I am a second year software engineering student, currently studying at th
 </a>
 </span>
 
-<summary><h3> 📚 My Top GitHub Projects</h3></summary>
+<summary><h3>📚 My Top GitHub Projects</h3></summary>
 <p align="left">
 <a href="https://github.com/DuckyShine004/minecraft-too-d"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DuckyShine004&repo=minecraft-too-d&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&border_color=404040" alt="minecraft-too-d"></a>
 <a href="https://github.com/DuckyShine004/chess-game"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DuckyShine004&repo=chess-game&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&border_color=404040" alt="chess-game"></a>
