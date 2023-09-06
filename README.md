@@ -1,4 +1,4 @@
-### About Me
+# About Me
 
 ---
 
@@ -8,9 +8,10 @@ Hello! I am a second year software engineering student, currently studying at th
 
 <details open>
 <summary><h2>🧑‍💻 Competitive Programming</h2></summary>
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/DuckyShine04?theme=dark&font=Alef&ext=activity)](https://leetcode.com/DuckyShine04/)
-
+<p float="left">
+<img src="https://leetcard.jacoblin.cool/DuckyShine04?theme=dark&font=Alef&ext=activity" width="400" height="400" />
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=ton-618" width="400" height="400" />
+</p>
 </details>
 
 ### GitHub Statistics
