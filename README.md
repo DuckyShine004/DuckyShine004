@@ -14,7 +14,8 @@ Hello! I am a second year software engineering student, currently studying at th
 </p>
 </details>
 
-### GitHub Statistics
+<details open> 
+<summary><h2>📈 GitHub Statistics</h2></summary>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=DuckyShine004&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
@@ -22,9 +23,15 @@ Hello! I am a second year software engineering student, currently studying at th
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuckyShine004&layout=compact)
 
+<p align="left">
+<a href="https://leetcode.com/DuckyShine04/" target="_blank"><img src="https://cp-logo.vercel.app/leetcode/DuckyShine04?logo=true" alt="LeetCode Rating" /></a>
+<a href="https://codeforces.com/profile/ton-618" target="_blank"><img src="https://cp-logo.vercel.app/codechef/ton-618?logo=true" alt="CodeForces Rating" /></a>
 <a href="https://github.com/DuckyShine004" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DDuckyShine004&longCache=true"/></a>
-<img src="https://komarev.com/ghpvc/?username=DuckyShine004&color=brightgreen" alt="watching_count" />
+<a href="https://github.com/DuckyShine004" target="_blank"><img src="https://komarev.com/ghpvc/?username=DuckyShine004&color=brightgreen" alt="watching_count" />
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DuckyShine004.DuckyShine004)
+
+</p>
 
 <details open>
 <summary><h2>📖 My GitBooks</h2></summary>
