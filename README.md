@@ -31,8 +31,8 @@ Hello! I am a second year software engineering student, currently studying at th
 <a href="https://leetcode.com/DuckyShine04/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
 <a href="https://www.linkedin.com/in/gallon-zhou-a3739b278/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-### My Tech Stack
-
+<details open>
+<summary><h2>🛠️ My Tech Stack</h2></summary>
 <a><img src="https://raw.githubusercontent.com/DuckyShine004/DuckyShine004/main/assets/svg/tech/icons8-python.svg" width=48 height=48></a>
 <a><img src="https://raw.githubusercontent.com/DuckyShine004/DuckyShine004/main/assets/svg/tech/icons8-pandas.svg" width=48 height=48></a>
 <a><img src="https://raw.githubusercontent.com/DuckyShine004/DuckyShine004/main/assets/svg/tech/icons8-javascript.svg"></a>
@@ -41,3 +41,5 @@ Hello! I am a second year software engineering student, currently studying at th
 <a><img src="https://raw.githubusercontent.com/DuckyShine004/DuckyShine004/main/assets/svg/tech/icons8-c-programming.svg" width=48 height=48></a>
 <a><img src="https://raw.githubusercontent.com/DuckyShine004/DuckyShine004/main/assets/svg/tech/icons8-c%2B%2B.svg" width=48 height=48></a>
 <a><img src="https://raw.githubusercontent.com/DuckyShine004/DuckyShine004/main/assets/svg/tech/opengl-color.svg" width=48 height=48></a>
+<a><img src="https://raw.githubusercontent.com/DuckyShine004/DuckyShine004/main/assets/svg/tech/icons8-java.svg" width=48 height=48></a>
+</details>
