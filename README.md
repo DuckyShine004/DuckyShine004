@@ -6,9 +6,12 @@ Hello! I am a second year software engineering student, currently studying at th
 <b>
 </b>
 
-### LeetCode Statistics
+<details open>
+<summary><h2>🧑‍💻 Competitive Programming</h2></summary>
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/DuckyShine04?theme=dark&font=Alef&ext=activity)](https://leetcode.com/DuckyShine04/)
+
+</details>
 
 ### GitHub Statistics
 
@@ -22,24 +25,29 @@ Hello! I am a second year software engineering student, currently studying at th
 <img src="https://komarev.com/ghpvc/?username=DuckyShine004&color=brightgreen" alt="watching_count" />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DuckyShine004.DuckyShine004)
 
-### GitBooks
+<details open>
+<summary><h2>📖 My GitBooks</h2></summary>
 
 - [OpenGL C++ Notes](https://app.gitbook.com/o/XEIMsXq347BvdJO73OPI/s/5BTO7oc6fRlD2LwMazdQ/)
 
-### Social Media Links
+</details>
 
-<a href="https://leetcode.com/DuckyShine04/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
-<a href="https://www.linkedin.com/in/gallon-zhou-a3739b278/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<details open>
+<summary><h2>🌐 My Social Media</h2></summary>
+<a href="https://leetcode.com/DuckyShine04/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="DuckyShine04" height="48" width="48" /></a>
+<a href="https://codeforces.com/profile/ton-618" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="ton-618" height="48" width="48" /></a>
+<a href="https://www.linkedin.com/in/gallon-zhou-a3739b278/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="gallon-zhou-a3739b278" height="48" width="48" /></a>
+</details>
 
 <details open>
 <summary><h2>🛠️ My Tech Stack</h2></summary>
-<a><img src="https://raw.githubusercontent.com/DuckyShine004/DuckyShine004/main/assets/svg/tech/icons8-python.svg" width=48 height=48></a>
-<a><img src="https://raw.githubusercontent.com/DuckyShine004/DuckyShine004/main/assets/svg/tech/icons8-pandas.svg" width=48 height=48></a>
+<a><img src="https://raw.githubusercontent.com/DuckyShine004/DuckyShine004/main/assets/svg/tech/icons8-python.svg" width="48" height="48" /></a>
+<a><img src="https://raw.githubusercontent.com/DuckyShine004/DuckyShine004/main/assets/svg/tech/icons8-pandas.svg" width="48" height="48" /></a>
 <a><img src="https://raw.githubusercontent.com/DuckyShine004/DuckyShine004/main/assets/svg/tech/icons8-javascript.svg"></a>
-<a><img src="https://raw.githubusercontent.com/DuckyShine004/DuckyShine004/main/assets/svg/tech/threedotjs-color.svg" width=48 height=48></a>
-<a><img src="https://raw.githubusercontent.com/DuckyShine004/DuckyShine004/main/assets/svg/tech/icons8-react.svg" widht=48 height=48></a>
-<a><img src="https://raw.githubusercontent.com/DuckyShine004/DuckyShine004/main/assets/svg/tech/icons8-c-programming.svg" width=48 height=48></a>
-<a><img src="https://raw.githubusercontent.com/DuckyShine004/DuckyShine004/main/assets/svg/tech/icons8-c%2B%2B.svg" width=48 height=48></a>
-<a><img src="https://raw.githubusercontent.com/DuckyShine004/DuckyShine004/main/assets/svg/tech/opengl-color.svg" width=48 height=48></a>
-<a><img src="https://raw.githubusercontent.com/DuckyShine004/DuckyShine004/main/assets/svg/tech/icons8-java.svg" width=48 height=48></a>
+<a><img src="https://raw.githubusercontent.com/DuckyShine004/DuckyShine004/main/assets/svg/tech/threedotjs-color.svg" width="48" height="48" /></a>
+<a><img src="https://raw.githubusercontent.com/DuckyShine004/DuckyShine004/main/assets/svg/tech/icons8-react.svg" widht="48" height="48" /></a>
+<a><img src="https://raw.githubusercontent.com/DuckyShine004/DuckyShine004/main/assets/svg/tech/icons8-c-programming.svg" width="48" height="48" /></a>
+<a><img src="https://raw.githubusercontent.com/DuckyShine004/DuckyShine004/main/assets/svg/tech/icons8-c%2B%2B.svg" width="48" height="48" /></a>
+<a><img src="https://raw.githubusercontent.com/DuckyShine004/DuckyShine004/main/assets/svg/tech/opengl-color.svg" width="48" height="48" /></a>
+<a><img src="https://raw.githubusercontent.com/DuckyShine004/DuckyShine004/main/assets/svg/tech/icons8-java.svg" width="48" height="48" /></a>
 </details>
