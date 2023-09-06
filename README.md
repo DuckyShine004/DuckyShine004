@@ -1,34 +1,30 @@
-# About Me
+# DuckyShine004
 
 ---
 
-Hello! I am a second year software engineering student, currently studying at the University of Auckland. Also, I apologize for the incomplete CodeForces badge, I still have not competed in a contest yet! 😅
-<b>
-</b>
+<p align="left">
+<a href="https://leetcode.com/DuckyShine04/" target="_blank"><img src="https://cp-logo.vercel.app/leetcode/DuckyShine04?logo=true" alt="LeetCode Rating" /></a>
+<a href="https://codeforces.com/profile/ton-618" target="_blank"><img src="https://codeforces-readme-stats.vercel.app/api/badge?username=ton-618?" alt="CodeForces Rating" /></a>
+<a href="https://github.com/DuckyShine004" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DDuckyShine004&longCache=true"/></a>
+<a href="https://github.com/DuckyShine004" target="_blank"><img src="https://komarev.com/ghpvc/?username=DuckyShine004&color=brightgreen" alt="watching_count" /></a>
+<a href="https://github.com/DuckyShine004" target="_blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=DuckyShine004.DuckyShine004" alt="visitor_count" /></a>
+</p>
 
-## 🧑‍💻 Competitive Programming
+### 🧑‍💻 Competitive Programming
 
 <span>
 <a href="https://leetcode.com/DuckyShine04/" target="_blank"><img src="https://leetcard.jacoblin.cool/DuckyShine04?theme=dark&font=JetBrains%20Mono&ext=activity" height="320" /></a>
 <a href="https://codeforces.com/profile/ton-618" target="_blank"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=ton-618&theme=github_dark&force_username=true&border_color=404040" height="320" /></a>
 </span>
 
-<details open> 
-<summary><h2>📈 GitHub Statistics</h2></summary>
+### 📈 GitHub Statistics
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DuckyShine004&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
-
-![Metrics](https://metrics.lecoq.io/DuckyShine004?template=classic&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&config.timezone=Pacific%2FAuckland)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuckyShine004&layout=compact)
-
-<p align="left">
-<a href="https://leetcode.com/DuckyShine04/" target="_blank"><img src="https://cp-logo.vercel.app/leetcode/DuckyShine04?logo=true" alt="LeetCode Rating" /></a>
-<a href="https://codeforces.com/profile/ton-618" target="_blank"><img src="https://codeforces-readme-stats.vercel.app/api/badge?username=ton-618?" alt="CodeForces Rating" /></a>
-<a href="https://github.com/DuckyShine004" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DDuckyShine004&longCache=true"/></a>
-<a href="https://github.com/DuckyShine004" target="_blank"><img src="https://komarev.com/ghpvc/?username=DuckyShine004&color=brightgreen" alt="watching_count" />
-<a href="https://github.com/DuckyShine004" target="_blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=DuckyShine004.DuckyShine004" alt="visitor_count" />
-</p>
+<span>
+<a href="https://github.com/DuckyShine004">
+<img src="https://github-readme-stats.vercel.app/api?username=DuckyShine004&show_icons=true&theme=tokyonight" height="195">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckyShine004&layout=compact&theme=tokyonight" height="195">
+</a>
+</span>
 
 <details open>
 <summary><h3>📖 My GitBooks</h3></summary>
