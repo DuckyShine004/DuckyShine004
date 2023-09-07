@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=36&duration=3000&pause=500&color=FFFFFF&repeat=false&width=445&height=60&lines=DuckyShine004)](https://git.io/typing-svg)
+<div align="center">
+	<a class="link" href="https://github.com/DuckyShine004/DuckyShine004/blame/main/assets/svg/typing/header.svg">
+		<img class="image" src="header.svg" alt="Click to see the source">
+	</a>
+</div>
 
 ---
 
