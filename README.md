@@ -15,20 +15,21 @@ Hello! I am a second year software engineering student, currently studying at th
 ### 🧑‍💻 Competitive Programming
 
 <span>
-<a href="https://leetcode.com/DuckyShine04/" target="_blank"><img src="https://leetcard.jacoblin.cool/DuckyShine04?theme=dark&font=JetBrains%20Mono&ext=activity&animation=true" height="320" /></a>
-<a href="https://codeforces.com/profile/ton-618" target="_blank"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=ton-618&theme=github_dark&force_username=true&border_color=404040" height="320" /></a>
+<a href="https://leetcode.com/DuckyShine04/" target="_blank"><img src="https://leetcard.jacoblin.cool/DuckyShine04?theme=dark&font=JetBrains%20Mono&ext=activity&border_color=404040" height="320" /></a>
+<a href="https://codeforces.com/profile/ton-618" target="_blank"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=ton-618&theme=react&force_username=true&title_color=F85D7F&icon_color=F8D866&border_color=404040" height="320" /></a>
 </span>
 
 ### 📈 GitHub Statistics
 
 <span>
 <a href="https://github.com/DuckyShine004">
-<img src="https://github-readme-stats.vercel.app/api?username=DuckyShine004&show_icons=true&theme=react&bg_color=1F222E&title_color=F85D7F&border_color=404040" height="195">
+<img src="https://github-readme-stats.vercel.app/api?username=DuckyShine004&show_icons=true&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&border_color=404040" height="195">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckyShine004&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&border_color=404040" height="195">
 </a>
 </span>
 
-<summary><h3> 📚 My Top GitHub Projects</h3></summary>
+### 📚 My Top GitHub Projects
+
 <p align="left">
 <a href="https://github.com/DuckyShine004/minecraft-too-d"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DuckyShine004&repo=minecraft-too-d&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&border_color=404040" alt="minecraft-too-d"></a>
 <a href="https://github.com/DuckyShine004/chess-game"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DuckyShine004&repo=chess-game&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&border_color=404040" alt="chess-game"></a>
@@ -37,6 +38,7 @@ Hello! I am a second year software engineering student, currently studying at th
 <a href="https://github.com/DuckyShine004/opengl-voxel-engine"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DuckyShine004&repo=opengl-voxel-engine&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&border_color=404040" alt="opengl-voxel-engine"></a>
 <a href="https://github.com/DuckyShine004/opengl-shape-engine"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DuckyShine004&repo=opengl-shape-engine&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&border_color=404040" alt="opengl-shape-engine"></a>
 </p>
+
 <details close>
 <summary><h3>📖 My GitBooks</h3></summary>
 
