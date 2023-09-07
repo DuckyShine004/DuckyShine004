@@ -1,8 +1,8 @@
-# DuckyShine004
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=36&duration=3000&pause=500&color=FFFFFF&repeat=false&width=445&height=60&lines=DuckyShine004)](https://git.io/typing-svg)
 
 ---
 
-Hello! I am a second year software engineering student, currently studying at the University of Auckland.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=7500&color=FFFFFF&multiline=true&repeat=false&width=1280&height=60&lines=Hello!+I+am+a+second+year+software+engineering+student%2C+currently+studying+at+the+University+of+Auckland.)](https://git.io/typing-svg)
 
 <p align="left">
 <a href="https://leetcode.com/DuckyShine04/" target="_blank"><img src="https://cp-logo.vercel.app/leetcode/DuckyShine04?logo=true" alt="LeetCode Rating" /></a>
