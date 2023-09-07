@@ -1,8 +1,4 @@
-<div align="center">
-	<a class="link" href="https://github.com/DuckyShine004/DuckyShine004/blame/main/assets/svg/typing/header.svg">
-		<img class="image" src="header.svg" alt="Click to see the source">
-	</a>
-</div>
+<img src="https://raw.githubusercontent.com/DuckyShine004/DuckyShine004/main/assets/svg/typing/header.svg">
 
 ---
 
