@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=3000&pause=1000&width=720&height=70&lines=%3EDuckyShine004;%3ECompetitive+Programming;%3EPython;%3EC%2FC%2B%2B;%3EJava)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=FFFFFF&size=40&duration=3000&pause=1000&width=720&height=70&lines=%3EDuckyShine004;%3ECompetitive+Programming;%3EPython;%3EC%2FC%2B%2B;%3EJava)](https://git.io/typing-svg)
 
 ---
 
