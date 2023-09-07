@@ -15,7 +15,7 @@ Hello! I am a second year software engineering student, currently studying at th
 ### 🧑‍💻 Competitive Programming
 
 <span>
-<a href="https://leetcode.com/DuckyShine04/" target="_blank"><img src="https://leetcard.jacoblin.cool/DuckyShine04?theme=dark&font=JetBrains%20Mono&ext=activity" height="320" /></a>
+<a href="https://leetcode.com/DuckyShine04/" target="_blank"><img src="https://leetcard.jacoblin.cool/DuckyShine04?theme=dark&font=JetBrains%20Mono&ext=activity&animation=true" height="320" /></a>
 <a href="https://codeforces.com/profile/ton-618" target="_blank"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=ton-618&theme=github_dark&force_username=true&border_color=404040" height="320" /></a>
 </span>
 
