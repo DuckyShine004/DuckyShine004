@@ -50,7 +50,7 @@
 <summary><h3>🌐 My Social Media</h3></summary>
 <a href="https://leetcode.com/DuckyShine04/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="DuckyShine04" height="48" width="48" /></a>
 <a href="https://codeforces.com/profile/ton-618" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="ton-618" height="48" width="48" /></a>
-<a href="https://www.hackerrank.com/profile/gallonlol123" target="_blank"><img src="https://en.m.wikipedia.org/wiki/File:HackerRank_Icon-1000px.png" alt="gallonlol123" height="48" width="48" /></a>
+<a href="https://www.hackerrank.com/profile/gallonlol123" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="gallonlol123" height="48" width="48" /></a>
 <a href="https://www.linkedin.com/in/gallon-zhou-a3739b278/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="gallon-zhou-a3739b278" height="48" width="48" /></a>
 </details>
 
@@ -66,5 +66,3 @@
 <a><img src="https://raw.githubusercontent.com/DuckyShine004/DuckyShine004/main/assets/svg/tech/opengl-color.svg" width="48" height="48" /></a>
 <a><img src="https://raw.githubusercontent.com/DuckyShine004/DuckyShine004/main/assets/svg/tech/icons8-java.svg" width="48" height="48" /></a>
 </details>
-
-[![gfdsgdsf](https://atcoder-stats-git-main-akmhmgc.vercel.app/api?username=crazyhama)](https://github.com/akmhmgc/atcoder-stats)
