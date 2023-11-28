@@ -54,15 +54,31 @@
 <a href="https://www.linkedin.com/in/gallon-zhou-a3739b278/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="gallon-zhou-a3739b278" height="48" width="48" /></a>
 </details>
 
+<style>
+    .tech-stack a {
+        margin: 2.5px;
+    }
+</style>
+
 <details close>
 <summary><h3>🛠️ My Tech Stack</h3></summary>
-<a><img src="https://raw.githubusercontent.com/DuckyShine004/DuckyShine004/main/assets/svg/tech/icons8-python.svg" width="48" height="48" /></a>
-<a><img src="https://raw.githubusercontent.com/DuckyShine004/DuckyShine004/main/assets/svg/tech/icons8-pandas.svg" width="48" height="48" /></a>
-<a><img src="https://raw.githubusercontent.com/DuckyShine004/DuckyShine004/main/assets/svg/tech/icons8-javascript.svg"></a>
-<a><img src="https://raw.githubusercontent.com/DuckyShine004/DuckyShine004/main/assets/svg/tech/threedotjs-color.svg" width="48" height="48" /></a>
-<a><img src="https://raw.githubusercontent.com/DuckyShine004/DuckyShine004/main/assets/svg/tech/icons8-react.svg" widht="48" height="48" /></a>
-<a><img src="https://raw.githubusercontent.com/DuckyShine004/DuckyShine004/main/assets/svg/tech/icons8-c-programming.svg" width="48" height="48" /></a>
-<a><img src="https://raw.githubusercontent.com/DuckyShine004/DuckyShine004/main/assets/svg/tech/icons8-c%2B%2B.svg" width="48" height="48" /></a>
-<a><img src="https://raw.githubusercontent.com/DuckyShine004/DuckyShine004/main/assets/svg/tech/opengl-color.svg" width="48" height="48" /></a>
-<a><img src="https://raw.githubusercontent.com/DuckyShine004/DuckyShine004/main/assets/svg/tech/icons8-java.svg" width="48" height="48" /></a>
+<div class="tech-stack" style="display: flex; justify-content: center; flex-wrap: wrap; max-width: 800px; margin: auto;">
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" /></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" /></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" /></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="48" height="48" /></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="48" height="48" /></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" /></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" /></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" /></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" /></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="48" height="48" /></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" /></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" /></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" /></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" width="48" height="48" /></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" /></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="48" height="48" /></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="48" height="48" /></a>
+</div>
 </details>
