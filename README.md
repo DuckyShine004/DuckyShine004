@@ -56,7 +56,7 @@
 
 <details open>
 <summary><h3>🛠️ My Tech Stack</h3></summary>
-<div style="display: flex; justify-content: center; flex-wrap: wrap; max-width: 800px; margin: auto;">
+<p align="center">
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" /></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" /></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" /></a>
@@ -74,5 +74,5 @@
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" /></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="48" height="48" /></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="48" height="48" /></a>
-</div>
+</p>
 </details>
