@@ -54,15 +54,9 @@
 <a href="https://www.linkedin.com/in/gallon-zhou-a3739b278/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="gallon-zhou-a3739b278" height="48" width="48" /></a>
 </details>
 
-<style>
-    .tech-stack a {
-        margin: 2.5px;
-    }
-</style>
-
-<details close>
+<details open>
 <summary><h3>🛠️ My Tech Stack</h3></summary>
-<div class="tech-stack" style="display: flex; justify-content: center; flex-wrap: wrap; max-width: 800px; margin: auto;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; max-width: 800px; margin: auto;">
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" /></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" /></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" /></a>
