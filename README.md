@@ -12,14 +12,14 @@
 <a href="https://github.com/DuckyShine004" target="_blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=DuckyShine004.DuckyShine004" alt="visitor_count" /></a>
 </p>
 
-### ¿¿¿ Competitive Programming
+### ğŸ§‘â€ğŸ’» Competitive Programming
 
 <span>
 <a href="https://leetcode.com/DuckyShine04/" target="_blank"><img src="https://leetcard.jacoblin.cool/DuckyShine04?theme=dark&font=JetBrains%20Mono&ext=activity&border_color=404040" height="320" /></a>
 <a href="https://codeforces.com/profile/ton-618" target="_blank"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=ton-618&theme=react&force_username=true&title_color=F85D7F&icon_color=F8D866&border_color=404040" height="320" /></a>
 </span>
 
-### ¿ GitHub Statistics
+### ğŸ“ˆ GitHub Statistics
 
 <span>
 <a href="https://github.com/DuckyShine004">
@@ -28,7 +28,7 @@
 </a>
 </span>
 
-### ¿ My Top GitHub Projects
+### ğŸ“š My Top GitHub Projects
 
 <p align="left">
 <a href="https://github.com/DuckyShine004/minecraft-too-d"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DuckyShine004&repo=minecraft-too-d&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&border_color=404040" alt="minecraft-too-d"></a>
@@ -40,13 +40,13 @@
 </p>
 
 <details close>
-<summary><h3> ¿ My GitBooks</h3></summary>
+<summary><h3> ğŸ“– My GitBooks</h3></summary>
 
 - [OpenGL C++ Notes](https://app.gitbook.com/o/XEIMsXq347BvdJO73OPI/s/5BTO7oc6fRlD2LwMazdQ/)
 
 </details>
 <details open>
-<summary><h3> ¿ My Social Media</h3></summary>
+<summary><h3> ï¿½ My Social Media</h3></summary>
 <a href="https://leetcode.com/DuckyShine04/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="DuckyShine04" height="48" width="48" /></a>
 <a href="https://codeforces.com/profile/ton-618" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="ton-618" height="48" width="48" /></a>
 <a href="https://www.hackerrank.com/profile/gallonlol123" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="gallonlol123" height="48" width="48" /></a>
@@ -54,7 +54,7 @@
 </details>
 
 <details open>
-<summary><h3> ¿ Programming Languages</h3></summary>
+<summary><h3> ğŸ”  Programming Languages</h3></summary>
 <p align="center">
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" /></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" /></a>
@@ -69,7 +69,7 @@
 </details>
 
 <details open>
-<summary><h3> ¿¿ Tech Stack</h3></summary>
+<summary><h3> ğŸ› ï¸ Tech Stack</h3></summary>
 <p align="center">
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" /></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="48" height="48" /></a>
