@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=7500&color=FFFFFF&multiline=true&repeat=false&width=1280&height=60&lines=Hello!+I+am+a+second+year+software+engineering+student%2C+currently+studying+at+the+University+of+Auckland.)](https://git.io/typing-svg)
 
 <p align="left">
-<a href="https://leetcode.com/DuckyShine04/" target="_blank"><img src="https://cp-logo.vercel.app/leetcode/DuckyShine04?logo=true" alt="LeetCode Rating" /></a>
+<a href="https://leetcode.com/duckyshine004/" target="_blank"><img src="https://cp-logo.vercel.app/leetcode/duckyshine004?logo=true" alt="LeetCode Rating" /></a>
 <a href="https://codeforces.com/profile/ton-618" target="_blank"><img src="https://codeforces-readme-stats.vercel.app/api/badge?username=ton-618?" alt="CodeForces Rating" /></a>
 <a href="https://github.com/DuckyShine004" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DDuckyShine004&longCache=true"/></a>
 <a href="https://github.com/DuckyShine004" target="_blank"><img src="https://komarev.com/ghpvc/?username=DuckyShine004&color=brightgreen" alt="watching_count" /></a>
@@ -15,7 +15,7 @@
 ### 🧑‍💻 Competitive Programming
 
 <span>
-<a href="https://leetcode.com/DuckyShine04/" target="_blank"><img src="https://leetcard.jacoblin.cool/DuckyShine04?theme=dark&font=JetBrains%20Mono&ext=activity&border_color=404040" height="320" /></a>
+<a href="https://leetcode.com/duckyshine004/" target="_blank"><img src="https://leetcard.jacoblin.cool/duckyshine004?theme=dark&font=JetBrains%20Mono&ext=activity&border_color=404040" height="320" /></a>
 <a href="https://codeforces.com/profile/ton-618" target="_blank"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=ton-618&theme=react&force_username=true&title_color=F85D7F&icon_color=F8D866&border_color=404040" height="320" /></a>
 </span>
 
