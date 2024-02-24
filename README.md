@@ -3,7 +3,42 @@
 ---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=7500&color=FFFFFF&multiline=true&repeat=false&width=1280&height=60&lines=Hello!+I+am+a+second+year+software+engineering+student%2C+currently+studying+at+the+University+of+Auckland.)](https://git.io/typing-svg)
-
+                                                                                
+                                                                                
+                                                                                
+                                       @@(/&@@                                  
+                                    ,*,,,,,,,,,*,@                              
+                                  @@@@@@@&#@@@@@&,,@@@@@@@&                     
+                                 @,,,,@//******/@,@/*****/%                     
+                                 @,,,,,@//#((((@,,,@/#(((@                      
+                                 *,,,,,,*,@@,,**#///@                           
+                                /,,///,,,,,,,*&(((////                          
+                                 (*,,*&///////((((((#//*@                       
+                                  *,,,,///*/       *@@(((#                      
+                                  @,,,,,,,,,                                    
+                                 &*,,,,,,,,.,                                   
+                             @**,,,,,,,,,,,,.@                                  
+                          ,,*,,,,,,,,,,,,,,,,,*                                 
+                       @.,,,,,,,,,,,,,,,,,,,,,,, @                              
+                      ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,%                            
+                     @/*,,,,,,,,,,,,,,,,,,,,,,,,,,,,/                           
+                     /*,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/@                        
+                     //,,,,,,,,,,,*,,,,,,,,,,,,,,,,,,,,,/%                      
+                     @//*,,,,,,,,,/,,,,,,,,,*,,,,,,,,,,,//%                     
+                      .////////////////**,,*//*.,,,///////.                     
+                        @(((/(//(((((/////////(@*////@////                      
+                          (((//(((((((((((((((((//////////(                     
+                           .///////((///////(((((//////////@                    
+                            ,///////////////*////(((/////@                      
+                              @,,*////////*,*,,,//(/////                        
+                               //(*,,,*/*,,,,*///@ @###%                        
+                               //(   *@*,,///&@    @(((@                        
+                              @/#(                  /(@                         
+                        @/#((((((((@               @##                          
+                      @(((((((*((((((         /@@/#(((                          
+                      #    @##/((((((#(   &(((((##(((#&                         
+                             %/@          @&/*(((((((/@                         
+                                                @@#(*#  
 <p align="left">
 <a href="https://leetcode.com/duckyshine004/" target="_blank"><img src="https://cp-logo.vercel.app/leetcode/duckyshine004?logo=true" alt="LeetCode Rating" /></a>
 <a href="https://codeforces.com/profile/ton-618" target="_blank"><img src="https://codeforces-readme-stats.vercel.app/api/badge?username=ton-618?" alt="CodeForces Rating" /></a>
@@ -39,22 +74,15 @@
 <a href="https://github.com/DuckyShine004/opengl-shape-engine"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DuckyShine004&repo=opengl-shape-engine&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&border_color=404040" alt="opengl-shape-engine"></a>
 </p>
 
-<details close>
-<summary><h3> 📖 My GitBooks</h3></summary>
-
-- [OpenGL C++ Notes](https://app.gitbook.com/o/XEIMsXq347BvdJO73OPI/s/5BTO7oc6fRlD2LwMazdQ/)
-
-</details>
-<details open>
-<summary><h3> 🌐 My Social Media</h3></summary>
+<h3 align="center"> 🌐 My Social Media</h3>
+<p align="center">
 <a href="https://leetcode.com/DuckyShine04/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="DuckyShine04" height="48" width="48" /></a> 
 <a href="https://codeforces.com/profile/ton-618" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="ton-618" height="48" width="48" /></a>
 <a href="https://www.hackerrank.com/profile/duckyshine04" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="duckyshine04" height="48" width="48" /></a>
 <a href="https://www.linkedin.com/in/gallon-zhou-a3739b278/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="gallon-zhou-a3739b278" height="48" width="48" /></a>
-</details>
+</p>
 
-<details open>
-<summary><h3> 🔠 Programming Languages</h3></summary>
+<h3 align="center"> 🔠 Programming Languages</h3>
 <p align="center">
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" /></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" /></a>
@@ -68,10 +96,8 @@
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" /></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="48" height="48" /></a>
 </p>
-</details>
 
-<details open>
-<summary><h3> 🛠️ Tech Stack</h3></summary>
+<h3 align="center"> 🛠️ Tech Stack</h3>
 <p align="center">
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" /></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="48" height="48" /></a>
@@ -95,4 +121,3 @@
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="48" height="48" /></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" width="48" height="48" /></a>
 </p>
-</details>
