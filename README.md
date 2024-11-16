@@ -1,8 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=FFFFFF&size=40&duration=3000&pause=1000&width=720&height=70&lines=%3EDuckyShine004;%3ECompetitive+Programming;%3EPython;%3EC%2FC%2B%2B;%3EJava)](https://git.io/typing-svg)
 
 ---
+Shiny ducks 🌟🦆. O2Jam stats:
+* Top 15 O2Jam (NZ)
+* Top 3.8k O2Jam (Global)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=7500&color=FFFFFF&multiline=true&repeat=false&width=1280&height=60&lines=Hello!+I+am+a+second+year+software+engineering+student%2C+currently+studying+at+the+University+of+Auckland.)](https://git.io/typing-svg)
                                                                                 
                                                                                 
                                                                                 
