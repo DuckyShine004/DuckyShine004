@@ -2,8 +2,8 @@
 
 ---
 Shiny ducks 🌟🦆. O2Jam stats:
-* Top 13 O2Jam (NZ)
-* Top 3.6k O2Jam (Global)
+* Top 12 O2Jam (NZ)
+* Top 3.0k O2Jam (Global)
 
                                                                                 
                                                                                 
