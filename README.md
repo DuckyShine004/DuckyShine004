@@ -41,18 +41,14 @@ Shiny ducks 🌟🦆. O2Jam stats:
                       #    @##/((((((#(   &(((((##(((#&                         
                              %/@          @&/*(((((((/@                         
                                                 @@#(*#  
-<p align="left">
-<a href="https://leetcode.com/duckyshine004/" target="_blank"><img src="https://cp-logo.vercel.app/leetcode/duckyshine004?logo=true" alt="LeetCode Rating" /></a>
-<a href="https://codeforces.com/profile/ton-618" target="_blank"><img src="https://codeforces-readme-stats.vercel.app/api/badge?username=ton-618?" alt="CodeForces Rating" /></a>
-<a href="https://github.com/DuckyShine004" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DDuckyShine004&longCache=true"/></a>
-<a href="https://github.com/DuckyShine004" target="_blank"><img src="https://komarev.com/ghpvc/?username=DuckyShine004&color=brightgreen" alt="watching_count" /></a>
-<a href="https://github.com/DuckyShine004" target="_blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=DuckyShine004.DuckyShine004" alt="visitor_count" /></a>
-</p>
+
 
 ### 🧑‍💻 Competitive Programming
 
 <span>
+<p align="left">
 <a href="https://leetcode.com/duckyshine004/" target="_blank"><img src="https://leetcard.jacoblin.cool/duckyshine004?theme=dark&ext=contest&border_color=404040" height="320" /></a>
+</p>
 </span>
 
 ### 📈 GitHub Statistics
@@ -62,6 +58,11 @@ Shiny ducks 🌟🦆. O2Jam stats:
 <img src="https://github-readme-stats.vercel.app/api?username=DuckyShine004&show_icons=true&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&border_color=404040" height="195">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckyShine004&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&border_color=404040" height="195">
 </a>
+<p align="left">
+<a href="https://github.com/DuckyShine004" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DDuckyShine004&longCache=true"/></a>
+<a href="https://github.com/DuckyShine004" target="_blank"><img src="https://komarev.com/ghpvc/?username=DuckyShine004&color=brightgreen" alt="watching_count" /></a>
+<a href="https://github.com/DuckyShine004" target="_blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=DuckyShine004.DuckyShine004" alt="visitor_count" /></a>
+</p>
 </span>
 
 ### 📚 My Top GitHub Projects
