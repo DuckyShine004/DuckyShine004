@@ -53,9 +53,6 @@ Shiny ducks 🌟🦆. O2Jam stats:
 
 <span>
 <a href="https://leetcode.com/duckyshine004/" target="_blank"><img src="https://leetcard.jacoblin.cool/duckyshine004?theme=dark&ext=contest&border_color=404040" height="320" /></a>
-<a href="https://codeforces.com/profile/ton-618" target="_blank"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=ton-618&theme=react&force_username=true&title_color=F85D7F&icon_color=F8D866&border_color=404040" height="320" /></a>
-</span>
-
 ### 📈 GitHub Statistics
 
 <span>
