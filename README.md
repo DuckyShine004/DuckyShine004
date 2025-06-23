@@ -5,6 +5,12 @@ Shiny ducks 🌟🦆. O2Jam stats:
 * Top 7 O2Jam (NZ)
 * Top 1.2k O2Jam (Global)
 
+Interests:
+* DSA
+* Low-level programming
+* Creating real-time applications
+* Optimisation techniques
+
                                                                                 
                                                                                 
                                                                                 
