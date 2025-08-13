@@ -53,8 +53,8 @@ Interests:
 
 <span>
 <p align="left">
-<a href="https://leetcode.com/u/duckyshine004/">
-<img src="https://leetcard.jacoblin.cool/duckyshine004?theme=dark&font=JetBrains%20Mono&ext=contest" height="380">
+<a href="https://leetcode.com/duckyshine004/" target="_blank">
+<img src="https://leetcard.jacoblin.cool/duckyshine004?theme=dark&font=JetBrains%20Mono&border_color=404040&ext=contest" height="380">
 </a>
 </p>
 </span>
