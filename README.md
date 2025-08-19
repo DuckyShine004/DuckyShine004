@@ -10,6 +10,7 @@ Interests:
 * Low-level programming
 * Creating real-time applications
 * Optimisation techniques
+* DUCKS!!!
 
                                                                                 
                                                                                 
