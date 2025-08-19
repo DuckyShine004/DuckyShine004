@@ -77,12 +77,12 @@ Interests:
 ### 📚 My Top GitHub Projects
 
 <p align="left">
-<a href="https://github.com/DuckyShine004/ducky-jam"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DuckyShine004&repo=minecraft-too-d&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&border_color=404040" alt="ducky-jam"></a>
-<a href="https://github.com/DuckyShine004/duck-engine"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DuckyShine004&repo=chess-game&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&border_color=404040" alt="duck-engine"></a>
+<a href="https://github.com/DuckyShine004/ducky-jam"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DuckyShine004&repo=ducky-jam&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&border_color=404040" alt="ducky-jam"></a>
+<a href="https://github.com/DuckyShine004/duck-engine"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DuckyShine004&repo=duck-enginee&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&border_color=404040" alt="duck-engine"></a>
 <a href="https://github.com/DuckyShine004/chess-engine"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DuckyShine004&repo=chess-engine&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&border_color=404040" alt="chess-engine"></a>
 <a href="https://github.com/DuckyShine004/avl-tree"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DuckyShine004&repo=avl-tree&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&border_color=404040" alt="avl-tree"></a>
-<a href="https://github.com/DuckyShine004/parallel-system-optimal-scheduler"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DuckyShine004&repo=opengl-voxel-engine&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&border_color=404040" alt="parallel-system-optimal-scheduler"></a>
-<a href="https://github.com/DuckyShine004/voxel-engine-lighting"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DuckyShine004&repo=opengl-shape-engine&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&border_color=404040" alt="voxel-engine-lighting"></a>
+<a href="https://github.com/DuckyShine004/parallel-system-optimal-scheduler"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DuckyShine004&repo=parallel-system-optimal-scheduler&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&border_color=404040" alt="parallel-system-optimal-scheduler"></a>
+<a href="https://github.com/DuckyShine004/voxel-engine-lighting"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DuckyShine004&repo=voxel-engine-lighting&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&border_color=404040" alt="voxel-engine-lighting"></a>
 </p>
 
 <h3 align="center"> 🌐 My Social Media</h3>
