@@ -24,13 +24,8 @@ Interests:
 
 <p align="center">
   <a href="https://github.com/DuckyShine004">
-    <img src="https://github-readme-stats.vercel.app/api?username=DuckyShine004&show_icons=true&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&border_color=404040" height="195">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DuckyShine004">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckyShine004&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&border_color=404040" height="195">
+    <img src="https://github-readme-stats.vercel.app/api?username=DuckyShine004&show_icons=true&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&border_color=404040" height="400">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckyShine004&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&border_color=404040" height="400">
   </a>
 </p>
 
@@ -44,7 +39,7 @@ Interests:
   📚 My GitHub Projects
 </h2>
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/DuckyShine004/ducky-jam"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DuckyShine004&repo=ducky-jam&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&border_color=404040" alt="ducky-jam"></a>
 <a href="https://github.com/DuckyShine004/duck-engine"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DuckyShine004&repo=duck-engine&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&border_color=404040" alt="duck-engine"></a>
 <a href="https://github.com/DuckyShine004/chess-engine"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DuckyShine004&repo=chess-engine&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&border_color=404040" alt="chess-engine"></a>
