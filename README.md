@@ -1,12 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=FFFFFF&size=40&duration=3000&pause=1000&width=720&height=70&lines=%3EDuckyShine004;%3ECompetitive+Programming;%3EPython;%3EC%2FC%2B%2B;%3EJava)](https://git.io/typing-svg)
 
 ---
-Interests:
-* DSA
-* Low-level programming
-* Creating real-time applications
-* Optimisation techniques
-* DUCKS!!!
+<h3>
+  👋 About Me
+</h3>
+
+- 📚 Data Structures & Algorithms  
+- ⚙️ Low-level Programming
+- ⏱️ Real-time Applications  
+- 🧩 Heuristics & Optimisation Techniques  
+- 🏆 Competitive Programming  
+- 🦆 DUCKS
 
 <h2 align="center">
   🧑‍💻 Competitive Programming
