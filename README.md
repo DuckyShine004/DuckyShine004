@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/duckyshine004/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/duckyshine004?theme=dracula&font=JetBrains%20Mono&hide_border=true&ext=contest" height="380">
+    <img src="https://leetcard.jacoblin.cool/duckyshine004?theme=dark&font=JetBrains%20Mono&border=0&ext=contest&cache=0" height="500">
   </a>
 </p>
 
