@@ -23,13 +23,13 @@
 </p>
 
 <h2 align="center">
-  📈 My GitHub Stats
+  📈 Stats
 </h2>
 
 <p align="center">
   <a href="https://github.com/DuckyShine004">
 <!--     <img src="https://github-readme-stats.vercel.app/api?username=DuckyShine004&show_icons=true&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&border_color=404040" height="400"> -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckyShine004&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&border_color=404040" height="400">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckyShine004&layout=compact&theme=dracula&bg_color=15,0D1117,1F222E&hide=ShaderLab&title_color=F85D7F&hide_border=true&border_color=404040" height="400">
   </a>
 </p>
 
@@ -40,7 +40,7 @@
 </p>
 
 <h2 align="center">
-  📚 My GitHub Projects
+  📚 Projects
 </h2>
 
 <p align="center">
@@ -52,13 +52,13 @@
 <a href="https://github.com/DuckyShine004/voxel-engine-lighting"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DuckyShine004&repo=voxel-engine-lighting&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&border_color=404040" alt="voxel-engine-lighting"></a>
 </p>
 
-<h2 align="center"> 🌐 My Social Media</h2>
+<!-- <h2 align="center"> 🌐 My Social Media</h2>
 <p align="center">
 <a href="https://leetcode.com/duckyshine004/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="duckyshine004" height="48" width="48" /></a> 
 <a href="https://codeforces.com/profile/ton-618" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="ton-618" height="48" width="48" /></a>
 <a href="https://www.hackerrank.com/profile/duckyshine04" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="duckyshine04" height="48" width="48" /></a>
 <a href="https://www.linkedin.com/in/gallon-zhou-a3739b278/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="gallon-zhou-a3739b278" height="48" width="48" /></a>
-</p>
+</p> -->
 
 <h2 align="center"> 🔠 Programming Languages</h2>
 <p align="center">
