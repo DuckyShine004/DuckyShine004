@@ -29,7 +29,7 @@
 <p align="center">
   <a href="https://github.com/DuckyShine004">
 <!--     <img src="https://github-readme-stats.vercel.app/api?username=DuckyShine004&show_icons=true&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&border_color=404040" height="400"> -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckyShine004&layout=compact&theme=dracula&bg_color=15,0D1117,1F222E&hide=ShaderLab&title_color=F85D7F&hide_border=true&border_color=404040" height="400">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckyShine004&theme=dracula&bg_color=15,0D1117,1F222E&hide=ShaderLab&hide_border=true&layout=donut" height="400">
   </a>
 </p>
 
@@ -44,12 +44,12 @@
 </h2>
 
 <p align="center">
-<a href="https://github.com/DuckyShine004/ducky-jam"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DuckyShine004&repo=ducky-jam&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&border_color=404040" alt="ducky-jam"></a>
-<a href="https://github.com/DuckyShine004/duck-engine"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DuckyShine004&repo=duck-engine&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&border_color=404040" alt="duck-engine"></a>
-<a href="https://github.com/DuckyShine004/chess-engine"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DuckyShine004&repo=chess-engine&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&border_color=404040" alt="chess-engine"></a>
-<a href="https://github.com/DuckyShine004/avl-tree"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DuckyShine004&repo=avl-tree&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&border_color=404040" alt="avl-tree"></a>
-<a href="https://github.com/DuckyShine004/parallel-system-optimal-scheduler"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DuckyShine004&repo=parallel-system-optimal-scheduler&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&border_color=404040" alt="parallel-system-optimal-scheduler"></a>
-<a href="https://github.com/DuckyShine004/voxel-engine-lighting"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DuckyShine004&repo=voxel-engine-lighting&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&border_color=404040" alt="voxel-engine-lighting"></a>
+<a href="https://github.com/DuckyShine004/ducky-jam"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DuckyShine004&repo=ducky-jam&theme=dracula&bg_color=15,0D1117,1F222E&hide_border=true" alt="ducky-jam"></a>
+<a href="https://github.com/DuckyShine004/duck-engine"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DuckyShine004&repo=duck-engine&theme=dracula&bg_color=15,0D1117,1F222E&hide_border=true" alt="duck-engine"></a>
+<a href="https://github.com/DuckyShine004/duck-chess"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DuckyShine004&repo=duck-chess&theme=dracula&bg_color=15,0D1117,1F222E&hide_border=true" alt="duck-chess"></a>
+<a href="https://github.com/DuckyShine004/avl-tree"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DuckyShine004&repo=avl-tree&theme=dracula&bg_color=15,0D1117,1F222E&hide_border=true" alt="avl-tree"></a>
+<a href="https://github.com/DuckyShine004/parallel-system-optimal-scheduler"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DuckyShine004&repo=parallel-system-optimal-scheduler&theme=dracula&bg_color=15,0D1117,1F222E&hide_border=true" alt="parallel-system-optimal-scheduler"></a>
+<a href="https://github.com/DuckyShine004/voxel-engine-lighting"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DuckyShine004&repo=voxel-engine-lighting&theme=dracula&bg_color=15,0D1117,1F222E&hide_border=true" alt="voxel-engine-lighting"></a>
 </p>
 
 <!-- <h2 align="center"> 🌐 My Social Media</h2>
