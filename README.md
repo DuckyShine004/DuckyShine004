@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/duckyshine004/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/duckyshine004?theme=dark&font=JetBrains%20Mono&border_color=404040&ext=contest" height="380">
+    <img src="https://leetcard.jacoblin.cool/duckyshine004?theme=dracula&font=JetBrains%20Mono&hide_border=true&ext=contest" height="380">
   </a>
 </p>
 
@@ -33,11 +33,11 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/DuckyShine004" target="_blank"><img alt="GitHub Followers" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DDuckyShine004&longCache=true"/></a>
   <a href="https://github.com/DuckyShine004" target="_blank"><img src="https://komarev.com/ghpvc/?username=DuckyShine004&color=brightgreen" alt="Profile Views" /></a>
   <a href="https://github.com/DuckyShine004" target="_blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=DuckyShine004.DuckyShine004" alt="Visitor Count" /></a>
-</p>
+</p> -->
 
 <h2 align="center">
   📚 Projects
