@@ -35,6 +35,15 @@
 
 <p align="center">
     <img src="https://img.icons8.com/?size=40&id=55199&format=png&color=FF6E96">
+    <img src="https://img.icons8.com/?size=40&id=55205&format=png&color=000000">
+    <img src="https://img.icons8.com/?size=40&id=12592&format=png&color=000000">
+    <img src="https://img.icons8.com/?size=40&id=39854&format=png&color=000000">
+    <img src="https://img.icons8.com/?size=40&id=cHBUT9SmrD2V&format=png&color=000000">
+    <img src="https://img.icons8.com/?size=40&id=7hA5Ny9rDAmV&format=png&color=000000">
+    <img src="https://img.icons8.com/?size=40&id=38272&format=png&color=000000">
+    <img src="https://img.icons8.com/?size=40&id=38294&format=png&color=000000">
+    <img src="https://img.icons8.com/?size=40&id=utx96pPa33XK&format=png&color=000000">
+    <img src="https://img.icons8.com/?size=40&id=79750&format=png&color=000000">
 </p>
 
 <!-- <p align="center">
