@@ -10,7 +10,7 @@
 - ⏱️ Real-time Applications  
 - 🧩 Heuristics & Optimisation Techniques  
 - 🏆 Competitive Programming  
-- 🦆 DUCKS
+- 🦆 **DUCKS**
 
 <h2 align="center">
   🧑‍💻 Competitive Programming
@@ -23,7 +23,7 @@
 </p>
 
 <h2 align="center">
-  📈 Stats
+  📈 Stats and Programming Languages
 </h2>
 
 <p align="center">
@@ -31,6 +31,10 @@
 <!--     <img src="https://github-readme-stats.vercel.app/api?username=DuckyShine004&show_icons=true&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&border_color=404040" height="400"> -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckyShine004&theme=dracula&bg_color=15,0D1117,1F222E&hide=ShaderLab&hide_border=true&layout=donut" height="400">
   </a>
+</p>
+
+<p align="center">
+    <img src="https://img.icons8.com/?size=40&id=55199&format=png&color=FF6E96">
 </p>
 
 <!-- <p align="center">
