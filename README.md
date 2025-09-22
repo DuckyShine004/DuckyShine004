@@ -76,6 +76,10 @@
     <img src="https://img.icons8.com/?size=40&id=WshOpqnlcBsN&format=png&color=000000">
     <img src="https://img.icons8.com/?size=40&id=35989&format=png&color=000000" alt="react-native">
     <img src="https://img.icons8.com/?size=40&id=t9oCxEN7McHZ&format=png&color=000000" alt="node-js">
+    <img src="https://img.icons8.com/?size=40&id=QERhMe8qpblP&format=png&color=000000" alt="npm">
+    <img src="https://img.icons8.com/?size=40&id=bosfpvRzNOG8&format=png&color=000000" alt="mongo-db">
+    <img src="https://img.icons8.com/?size=40&id=90519&format=png&color=000000" alt="springboot">
+    <img src="https://img.icons8.com/?size=40&id=22801&format=png&color=000000" alt="docker">
 </p>
 
 <!-- <h2 align="center"> 🌐 My Social Media</h2>
