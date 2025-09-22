@@ -34,17 +34,17 @@
 </p>
 
 <p align="center">
-    <img src="https://img.icons8.com/?size=40&id=55199&format=png&color=FF6E96">
-    <img src="https://raw.githubusercontent.com/DuckyShine004/DuckyShine004/c80e7a520277dd5abab283bd8e0810da66d77716/assets/svg/icons/language/icons8-c-programming-primary.svg">
-    <img src="https://img.icons8.com/?size=40&id=55205&format=png&color=FF6E96">
-    <img src="https://img.icons8.com/?size=40&id=12592&format=png&color=79DAFA">
-    <img src="https://img.icons8.com/?size=40&id=39854&format=png&color=FF6E96">
-    <img src="https://img.icons8.com/?size=40&id=cHBUT9SmrD2V&format=png&color=79DAFA">
-    <img src="https://img.icons8.com/?size=40&id=7hA5Ny9rDAmV&format=png&color=FF6E96">
-    <img src="https://img.icons8.com/?size=40&id=38272&format=png&color=79DAFA">
-    <img src="https://img.icons8.com/?size=40&id=38294&format=png&color=FF6E96">
-    <img src="https://img.icons8.com/?size=40&id=utx96pPa33XK&format=png&color=79DAFA">
-    <img src="https://img.icons8.com/?size=40&id=79750&format=png&color=FF6E96">
+    <img src="https://img.icons8.com/?size=40&id=55199&format=png&color=FF6E96" alt="cpp">
+    <img src="https://raw.githubusercontent.com/DuckyShine004/DuckyShine004/c80e7a520277dd5abab283bd8e0810da66d77716/assets/svg/icons/language/icons8-c-programming-primary.svg" alt="c">
+    <img src="https://img.icons8.com/?size=40&id=55205&format=png&color=FF6E96" alt="c-sharp">
+    <img src="https://img.icons8.com/?size=40&id=12592&format=png&color=79DAFA" alt="python">
+    <img src="https://img.icons8.com/?size=40&id=39854&format=png&color=FF6E96" alt="javascript">
+    <img src="https://img.icons8.com/?size=40&id=cHBUT9SmrD2V&format=png&color=79DAFA" alt="typescript">
+    <img src="https://img.icons8.com/?size=40&id=7hA5Ny9rDAmV&format=png&color=FF6E96" alt="html-5">
+    <img src="https://img.icons8.com/?size=40&id=38272&format=png&color=79DAFA" alt="css-3">
+    <img src="https://img.icons8.com/?size=40&id=38294&format=png&color=FF6E96" alt="java">
+    <img src="https://img.icons8.com/?size=40&id=utx96pPa33XK&format=png&color=79DAFA" alt="lua">
+    <img src="https://img.icons8.com/?size=40&id=79750&format=png&color=FF6E96" alt="bash">
 </p>
 
 <!-- <p align="center">
@@ -77,8 +77,8 @@
     <img src="https://img.icons8.com/?size=40&id=35989&format=png&color=79DAFA" alt="react-native">
     <img src="https://img.icons8.com/?size=40&id=t9oCxEN7McHZ&format=png&color=FF6E96" alt="node-js">
     <img src="https://img.icons8.com/?size=40&id=QERhMe8qpblP&format=png&color=79DAFA" alt="npm">
-    <img src="https://img.icons8.com/?size=40&id=bosfpvRzNOG8&format=png&color=FF6E96" alt="mongo-db">
-    <img src="https://img.icons8.com/?size=40&id=90519&format=png&color=79DAFA" alt="springboot">
+    <img src="https://raw.githubusercontent.com/DuckyShine004/DuckyShine004/refs/heads/main/assets/svg/icons/language/icons8-mongo-db-secondary.png" alt="mongo-db">
+    <img src="https://raw.githubusercontent.com/DuckyShine004/DuckyShine004/refs/heads/main/assets/svg/icons/language/icons8-spring-boot-primary.png" alt="springboot">
     <img src="https://img.icons8.com/?size=40&id=22801&format=png&color=FF6E96" alt="docker">
 </p>
 
@@ -105,7 +105,7 @@
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="48" height="48" /></a>
 </p> -->
 
-<h2 align="center"> 🛠️ Tech Stack</h2>
+<!-- <h2 align="center"> 🛠️ Tech Stack</h2>
 <p align="center">
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="48" height="48" /></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" /></a>
@@ -129,4 +129,4 @@
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="48" height="48" /></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="48" height="48" /></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" width="48" height="48" /></a>
-</p>
+</p> -->
