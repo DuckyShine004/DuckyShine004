@@ -23,7 +23,7 @@
 </p>
 
 <h2 align="center">
-  📈 Stats and Programming Languages
+  📈 Stats & Languages
 </h2>
 
 <p align="center">
@@ -54,7 +54,7 @@
 </p> -->
 
 <h2 align="center">
-  📚 Projects
+  📚 Projects & Tech Stack
 </h2>
 
 <p align="center">
@@ -74,7 +74,7 @@
 <a href="https://www.linkedin.com/in/gallon-zhou-a3739b278/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="gallon-zhou-a3739b278" height="48" width="48" /></a>
 </p> -->
 
-<h2 align="center"> 🔠 Programming Languages</h2>
+<!-- <h2 align="center"> 🔠 Programming Languages</h2>
 <p align="center">
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" /></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" /></a>
@@ -87,7 +87,7 @@
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" /></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" /></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="48" height="48" /></a>
-</p>
+</p> -->
 
 <h2 align="center"> 🛠️ Tech Stack</h2>
 <p align="center">
