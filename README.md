@@ -58,12 +58,24 @@
 </h2>
 
 <p align="center">
-<a href="https://github.com/DuckyShine004/ducky-jam"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DuckyShine004&repo=ducky-jam&theme=dracula&bg_color=15,0D1117,1F222E&hide_border=true" alt="ducky-jam"></a>
-<a href="https://github.com/DuckyShine004/duck-engine"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DuckyShine004&repo=duck-engine&theme=dracula&bg_color=15,0D1117,1F222E&hide_border=true" alt="duck-engine"></a>
-<a href="https://github.com/DuckyShine004/duck-chess"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DuckyShine004&repo=duck-chess&theme=dracula&bg_color=15,0D1117,1F222E&hide_border=true" alt="duck-chess"></a>
-<a href="https://github.com/DuckyShine004/parallel-system-optimal-scheduler"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DuckyShine004&repo=parallel-system-optimal-scheduler&theme=dracula&bg_color=15,0D1117,1F222E&hide_border=true" alt="parallel-system-optimal-scheduler"></a>
-<a href="https://github.com/DuckyShine004/voxel-engine-lighting"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DuckyShine004&repo=voxel-engine-lighting&theme=dracula&bg_color=15,0D1117,1F222E&hide_border=true" alt="voxel-engine-lighting"></a>
-<a href="https://github.com/DuckyShine004/avl-tree"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DuckyShine004&repo=avl-tree&theme=dracula&bg_color=15,0D1117,1F222E&hide_border=true" alt="avl-tree"></a>
+    <a href="https://github.com/DuckyShine004/ducky-jam"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DuckyShine004&repo=ducky-jam&theme=dracula&bg_color=15,0D1117,1F222E&hide_border=true" alt="ducky-jam"></a>
+    <a href="https://github.com/DuckyShine004/duck-engine"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DuckyShine004&repo=duck-engine&theme=dracula&bg_color=15,0D1117,1F222E&hide_border=true" alt="duck-engine"></a>
+    <a href="https://github.com/DuckyShine004/duck-chess"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DuckyShine004&repo=duck-chess&theme=dracula&bg_color=15,0D1117,1F222E&hide_border=true" alt="duck-chess"></a>
+    <a href="https://github.com/DuckyShine004/parallel-system-optimal-scheduler"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DuckyShine004&repo=parallel-system-optimal-scheduler&theme=dracula&bg_color=15,0D1117,1F222E&hide_border=true" alt="parallel-system-optimal-scheduler"></a>
+    <a href="https://github.com/DuckyShine004/voxel-engine-lighting"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DuckyShine004&repo=voxel-engine-lighting&theme=dracula&bg_color=15,0D1117,1F222E&hide_border=true" alt="voxel-engine-lighting"></a>
+    <a href="https://github.com/DuckyShine004/avl-tree"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DuckyShine004&repo=avl-tree&theme=dracula&bg_color=15,0D1117,1F222E&hide_border=true" alt="avl-tree"></a>
+</p>
+
+<p align="center">
+    <img src="https://img.icons8.com/?size=40&id=dKnANNUTjp1j&format=png&color=000000" alt="I use Arch, BTW">
+    <img src="https://img.icons8.com/?size=40&id=Z6okEpWSgU8N&format=png&color=000000">
+    <img src="https://img.icons8.com/?size=40&id=AYjs5TuD59G6&format=png&color=000000">
+    <img src="https://img.icons8.com/?size=40&id=38389&format=png&color=000000">
+    <img src="https://img.icons8.com/?size=40&id=39848&format=png&color=000000">
+    <img src="https://img.icons8.com/?size=40&id=n60Mt4wRAUlo&format=png&color=000000">
+    <img src="https://img.icons8.com/?size=40&id=WshOpqnlcBsN&format=png&color=000000">
+    <img src="https://img.icons8.com/?size=40&id=35989&format=png&color=000000" alt="react-native">
+    <img src="https://img.icons8.com/?size=40&id=t9oCxEN7McHZ&format=png&color=000000" alt="node-js">
 </p>
 
 <!-- <h2 align="center"> 🌐 My Social Media</h2>
