@@ -35,7 +35,7 @@
 
 <p align="center">
     <img src="https://img.icons8.com/?size=40&id=55199&format=png&color=FF6E96">
-    <img src="https://raw.githubusercontent.com/DuckyShine004/DuckyShine004/04ef5398ac40008be98b5d4ad26c029ae4e7b307/assets/svg/icons/language/icons8-c-programming.svg">
+    <img src="https://raw.githubusercontent.com/DuckyShine004/DuckyShine004/c80e7a520277dd5abab283bd8e0810da66d77716/assets/svg/icons/language/icons8-c-programming-primary.svg">
     <img src="https://img.icons8.com/?size=40&id=55205&format=png&color=FF6E96">
     <img src="https://img.icons8.com/?size=40&id=12592&format=png&color=79DAFA">
     <img src="https://img.icons8.com/?size=40&id=39854&format=png&color=FF6E96">
