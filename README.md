@@ -29,7 +29,6 @@
 <p align="center">
   <a href="https://github.com/DuckyShine004">
     <img src="https://github-readme-stats.vercel.app/api?username=DuckyShine004&custom_title=DUCK%20STATISTICS&theme=dracula&bg_color=15,0D1117,1F222E&hide_border=true&show_icons=true&include_all_commits=false&rank_icon=github" alt="duck-statistics">
-    &nbsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckyShine004&custom_title=DUCK%20LANGUAGES&theme=dracula&bg_color=15,0D1117,1F222E&hide=ShaderLab&hide_border=true&show_icons=true&include_all_commits=true&langs_count=8&layout=compact" alt="duck-languages">
   </a>
 </p>
