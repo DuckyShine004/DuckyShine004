@@ -36,7 +36,7 @@
 
 <p align="center">
     <img src="https://img.icons8.com/?size=40&id=55199&format=png&color=FF6E96" alt="cpp">
-    <img src="https://raw.githubusercontent.com/DuckyShine004/DuckyShine004/c80e7a520277dd5abab283bd8e0810da66d77716/assets/svg/icons/language/icons8-c-programming-primary.svg" alt="c">
+    <img src="assets/svg/icons/language/icons8-c-programming-primary.svg" alt="c">
     <img src="https://img.icons8.com/?size=40&id=55205&format=png&color=FF6E96" alt="c-sharp">
     <img src="https://img.icons8.com/?size=40&id=12592&format=png&color=79DAFA" alt="python">
     <img src="https://img.icons8.com/?size=40&id=39854&format=png&color=FF6E96" alt="javascript">
@@ -78,8 +78,8 @@
     <img src="https://img.icons8.com/?size=40&id=35989&format=png&color=79DAFA" alt="react-native">
     <img src="https://img.icons8.com/?size=40&id=t9oCxEN7McHZ&format=png&color=FF6E96" alt="node-js">
     <img src="https://img.icons8.com/?size=40&id=QERhMe8qpblP&format=png&color=79DAFA" alt="npm">
-    <img src="https://raw.githubusercontent.com/DuckyShine004/DuckyShine004/refs/heads/main/assets/svg/icons/language/icons8-mongo-db-secondary.png" alt="mongo-db">
-    <img src="https://raw.githubusercontent.com/DuckyShine004/DuckyShine004/refs/heads/main/assets/svg/icons/language/icons8-spring-boot-primary.png" alt="springboot">
+    <img src="assets/svg/icons/language/icons8-mongo-db-secondary.png" alt="mongo-db">
+    <img src="assets/svg/icons/language/icons8-spring-boot-primary.svg" alt="springboot">
     <img src="https://img.icons8.com/?size=40&id=22801&format=png&color=FF6E96" alt="docker">
 </p>
 
