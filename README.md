@@ -47,12 +47,6 @@
     <img src="https://img.icons8.com/?size=40&id=79750&format=png&color=FF6E96" alt="bash">
 </p>
 
-<!-- <p align="center">
-  <a href="https://github.com/DuckyShine004" target="_blank"><img alt="GitHub Followers" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DDuckyShine004&longCache=true"/></a>
-  <a href="https://github.com/DuckyShine004" target="_blank"><img src="https://komarev.com/ghpvc/?username=DuckyShine004&color=brightgreen" alt="Profile Views" /></a>
-  <a href="https://github.com/DuckyShine004" target="_blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=DuckyShine004.DuckyShine004" alt="Visitor Count" /></a>
-</p> -->
-
 <h2 align="center">
   📚 Projects & Tech Stack
 </h2>
@@ -81,11 +75,3 @@
     <img src="assets/svg/icons/language/icons8-spring-boot-primary.svg" alt="springboot">
     <img src="https://img.icons8.com/?size=40&id=22801&format=png&color=FF6E96" alt="docker">
 </p>
-
-<!-- <h2 align="center"> 🌐 My Social Media</h2>
-<p align="center">
-<a href="https://leetcode.com/duckyshine004/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="duckyshine004" height="48" width="48" /></a> 
-<a href="https://codeforces.com/profile/ton-618" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="ton-618" height="48" width="48" /></a>
-<a href="https://www.hackerrank.com/profile/duckyshine04" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="duckyshine04" height="48" width="48" /></a>
-<a href="https://www.linkedin.com/in/gallon-zhou-a3739b278/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="gallon-zhou-a3739b278" height="48" width="48" /></a>
-</p> -->
