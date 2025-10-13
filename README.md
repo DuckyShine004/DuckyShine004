@@ -5,11 +5,11 @@
   👋 About Me
 </h3>
 
-- 📚 Data Structures & Algorithms  
-- ⚙️ Low-level Programming
-- ⏱️ Real-time Applications  
-- 🧩 Heuristics & Optimisation Techniques  
-- 🏆 Competitive Programming  
+- 📚 Data Structures & Algorithms
+- ⚙️ Low-level Programming & Real-time Applications
+- 🎮 Game Development & Graphics Programming
+- 🧩 Heuristics & Optimisation Techniques
+- 🏆 Competitive Programming
 - 🦆 **DUCKS**
 
 <h2 align="center">
