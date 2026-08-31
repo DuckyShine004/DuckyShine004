@@ -75,3 +75,9 @@
     <img src="assets/svg/icons/language/icons8-spring-boot-primary.svg" alt="springboot">
     <img src="https://img.icons8.com/?size=40&id=22801&format=png&color=FF6E96" alt="docker">
 </p>
+
+<h2 align="center">
+  🔬 Research & Publications
+</h2>
+
+- [BeatWeights: A VR Dumbbell Exergame on Music, Rhythm, and Motivation in Strength Training](https://doi.org/10.1145/3815598.3815620)
